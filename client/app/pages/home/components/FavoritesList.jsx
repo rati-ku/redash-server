@@ -67,7 +67,7 @@ export function DashboardAndQueryFavoritesList() {
                   <span className="btn-favorite m-r-5">
                     <i className="fa fa-star" aria-hidden="true" />
                   </span>
-                  Favorite <Link href="dashboards">Dashboards</Link> will appear here
+                  Favorite <Link href="dashboards">Dashboards</Link> will appear hereeeee
                 </p>
               }
             />
@@ -82,7 +82,7 @@ export function DashboardAndQueryFavoritesList() {
                   <span className="btn-favorite m-r-5">
                     <i className="fa fa-star" aria-hidden="true" />
                   </span>
-                  Favorite <Link href="queries">Queries</Link> will appear here
+                  Favorite <Link href="queries">Queries</Link> will appear hereeeee
                 </p>
               }
             />
